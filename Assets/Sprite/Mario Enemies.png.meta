@@ -1,0 +1,3108 @@
+fileFormatVersion: 2
+guid: 8ec491ae096abfc4b9bcb0dae7db9b4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4204795381399155382
+    second: Gomba1
+  - first:
+      213: 6574561542037350971
+    second: Mario Enemies_1
+  - first:
+      213: -4176645440413103093
+    second: Troopa_Brown_1
+  - first:
+      213: 3038163781262565838
+    second: Troopa_Brown_2
+  - first:
+      213: 4685089303767263188
+    second: Mario Enemies_4
+  - first:
+      213: 7376944180702741019
+    second: Mario Enemies_5
+  - first:
+      213: 5967630063613044948
+    second: Mario Enemies_6
+  - first:
+      213: -7153061092203025400
+    second: Mario Enemies_7
+  - first:
+      213: -6615065742432972555
+    second: Mario Enemies_8
+  - first:
+      213: 4990581885098156904
+    second: Mario Enemies_9
+  - first:
+      213: 4690577218493509242
+    second: Spirry_1
+  - first:
+      213: -3199585405602410031
+    second: Mario Enemies_11
+  - first:
+      213: 2407098087649052780
+    second: Mario Enemies_12
+  - first:
+      213: -1158697006236229973
+    second: Mario Enemies_13
+  - first:
+      213: -2068587269913081230
+    second: Mario Enemies_14
+  - first:
+      213: -1908340181533093822
+    second: Mario Enemies_15
+  - first:
+      213: -4871121697038105501
+    second: king_koopa_brown_1
+  - first:
+      213: -874359323152579710
+    second: king_koopa_brown_2
+  - first:
+      213: -9202052080179645352
+    second: king_koopa_brown_3
+  - first:
+      213: -7674340567711800674
+    second: king_koopa_brown_4
+  - first:
+      213: 5030772755740877273
+    second: Spirry_2
+  - first:
+      213: 2573968837330890391
+    second: Mario Enemies_21
+  - first:
+      213: 7041431323790833077
+    second: Mario Enemies_22
+  - first:
+      213: 3518226763977324148
+    second: Mario Enemies_23
+  - first:
+      213: -8707487463633295572
+    second: Mario Enemies_24
+  - first:
+      213: 3165424300190084811
+    second: Mario Enemies_25
+  - first:
+      213: 6278228022535617432
+    second: Mario Enemies_26
+  - first:
+      213: -7027448865341694109
+    second: Mario Enemies_27
+  - first:
+      213: 4484161235034711837
+    second: Mario Enemies_28
+  - first:
+      213: -5857821803783544333
+    second: Mario Enemies_29
+  - first:
+      213: 1254775681092264282
+    second: Mario Enemies_30
+  - first:
+      213: 6836440551730163650
+    second: Mario Enemies_31
+  - first:
+      213: 7447926319845914254
+    second: Mario Enemies_32
+  - first:
+      213: 7815641706957646068
+    second: Mario Enemies_33
+  - first:
+      213: 5023214304237035592
+    second: Mario Enemies_34
+  - first:
+      213: -4282650604638633839
+    second: Mario Enemies_35
+  - first:
+      213: 8453926521818333371
+    second: Mario Enemies_36
+  - first:
+      213: -583006087276944530
+    second: Mario Enemies_37
+  - first:
+      213: -8788199016308198023
+    second: Mario Enemies_38
+  - first:
+      213: 8834420913841498954
+    second: Mario Enemies_39
+  - first:
+      213: 2005532710223726059
+    second: Mario Enemies_40
+  - first:
+      213: -1513908273200759391
+    second: Mario Enemies_41
+  - first:
+      213: -5323971791231581010
+    second: Mario Enemies_42
+  - first:
+      213: 3320861173888209421
+    second: Mario Enemies_43
+  - first:
+      213: -899372225845952753
+    second: Mario Enemies_44
+  - first:
+      213: -2299616619337317069
+    second: Mario Enemies_45
+  - first:
+      213: -3010513330594268603
+    second: Mario Enemies_46
+  - first:
+      213: -4713749458401704286
+    second: Mario Enemies_47
+  - first:
+      213: -185379836784721915
+    second: Mario Enemies_48
+  - first:
+      213: 9136875001435965742
+    second: Mario Enemies_49
+  - first:
+      213: -5512894367323559294
+    second: Mario Enemies_50
+  - first:
+      213: -4434019367603964885
+    second: Mario Enemies_51
+  - first:
+      213: 5008182012923546212
+    second: Mario Enemies_52
+  - first:
+      213: -9009931642137107252
+    second: Mario Enemies_53
+  - first:
+      213: -3444803019398690416
+    second: Mario Enemies_54
+  - first:
+      213: -985077050654735196
+    second: Mario Enemies_55
+  - first:
+      213: -7635182917999878336
+    second: Mario Enemies_56
+  - first:
+      213: 2652827465890576311
+    second: Mario Enemies_57
+  - first:
+      213: -5183135822083938643
+    second: Mario Enemies_58
+  - first:
+      213: -3192878741557438127
+    second: Mario Enemies_59
+  - first:
+      213: -7582874602758476680
+    second: Mario Enemies_60
+  - first:
+      213: -3627352345761410978
+    second: Mario Enemies_61
+  - first:
+      213: 7386968292117190933
+    second: Mario Enemies_62
+  - first:
+      213: 5250587917957775779
+    second: Mario Enemies_63
+  - first:
+      213: -8179020254416879119
+    second: Mario Enemies_64
+  - first:
+      213: -6795552417992107296
+    second: Mario Enemies_65
+  - first:
+      213: 6635623194570621156
+    second: Mario Enemies_66
+  - first:
+      213: -7054254739072864607
+    second: Mario Enemies_67
+  - first:
+      213: -5627291451911699474
+    second: Mario Enemies_68
+  - first:
+      213: -3353391772820333134
+    second: Mario Enemies_69
+  - first:
+      213: -7927874563141665812
+    second: Mario Enemies_70
+  - first:
+      213: 8695163578707702741
+    second: Mario Enemies_71
+  - first:
+      213: 2087235415648124949
+    second: Mario Enemies_72
+  - first:
+      213: -4060921363682340205
+    second: Mario Enemies_73
+  - first:
+      213: 3148995977119520191
+    second: Mario Enemies_74
+  - first:
+      213: 7102517046475725459
+    second: Mario Enemies_75
+  - first:
+      213: 5628024454273506580
+    second: Mario Enemies_76
+  - first:
+      213: 2131370075995696283
+    second: Mario Enemies_77
+  - first:
+      213: 7055764071427531728
+    second: Mario Enemies_78
+  - first:
+      213: -8422834468236835697
+    second: Mario Enemies_79
+  - first:
+      213: 9104700978827739013
+    second: Mario Enemies_80
+  - first:
+      213: 8683139250542657768
+    second: Mario Enemies_81
+  - first:
+      213: 5044877636150761315
+    second: Mario Enemies_82
+  - first:
+      213: 4458069439526385452
+    second: Mario Enemies_83
+  - first:
+      213: -1384148764817786470
+    second: Mario Enemies_84
+  - first:
+      213: -4091816995941570702
+    second: Mario Enemies_85
+  - first:
+      213: -5144404777029712579
+    second: Mario Enemies_86
+  - first:
+      213: 3005053306998651247
+    second: Mario Enemies_87
+  - first:
+      213: -6275842908992559312
+    second: Mario Enemies_88
+  - first:
+      213: 1025155773376037181
+    second: Mario Enemies_89
+  - first:
+      213: 2961236006041584705
+    second: Mario Enemies_90
+  - first:
+      213: 4739546496030560317
+    second: Mario Enemies_91
+  - first:
+      213: -1249499649623635673
+    second: Mario Enemies_92
+  - first:
+      213: -2325910171438579038
+    second: Mario Enemies_93
+  - first:
+      213: -8057261249550736977
+    second: Mario Enemies_94
+  - first:
+      213: -690906496242205026
+    second: Mario Enemies_95
+  - first:
+      213: -3315279382028094798
+    second: Mario Enemies_96
+  - first:
+      213: -4381449866142991288
+    second: Mario Enemies_97
+  - first:
+      213: -8651635879955493914
+    second: Mario Enemies_98
+  - first:
+      213: -5859518336781162241
+    second: Mario Enemies_99
+  - first:
+      213: 7914836578974974821
+    second: Mario Enemies_100
+  - first:
+      213: 5492385384256848347
+    second: Mario Enemies_101
+  - first:
+      213: -3137298971250464259
+    second: Mario Enemies_102
+  - first:
+      213: -3587153443561559526
+    second: Mario Enemies_103
+  - first:
+      213: 4716727068168397908
+    second: Mario Enemies_104
+  - first:
+      213: 4375989851915558065
+    second: Mario Enemies_105
+  - first:
+      213: 6367619761883219842
+    second: Mario Enemies_106
+  - first:
+      213: 8388435017799216631
+    second: Mario Enemies_107
+  - first:
+      213: -879560351439013094
+    second: Mario Enemies_108
+  - first:
+      213: -7272326738659832019
+    second: Mario Enemies_109
+  - first:
+      213: -8418707285029830849
+    second: Mario Enemies_110
+  - first:
+      213: -5695410271708757145
+    second: Mario Enemies_111
+  - first:
+      213: -5877073366462483461
+    second: Mario Enemies_112
+  - first:
+      213: 6034965753861670985
+    second: Mario Enemies_113
+  - first:
+      213: -2483927446225676157
+    second: Mario Enemies_114
+  - first:
+      213: -509329707845533544
+    second: Mario Enemies_115
+  - first:
+      213: 1633549720648461974
+    second: Mario Enemies_116
+  - first:
+      213: -1328791273313946387
+    second: Mario Enemies_117
+  - first:
+      213: 6849539633784990964
+    second: Mario Enemies_118
+  - first:
+      213: 6526903251548462487
+    second: Mario Enemies_119
+  - first:
+      213: 7628842251770863975
+    second: Mario Enemies_120
+  - first:
+      213: -6802680737862213486
+    second: Mario Enemies_121
+  - first:
+      213: 5820156127560955215
+    second: Mario Enemies_122
+  - first:
+      213: -2886634838183384176
+    second: Mario Enemies_123
+  - first:
+      213: 230798828986693739
+    second: Mario Enemies_124
+  - first:
+      213: -3435955112453389034
+    second: Mario Enemies_125
+  - first:
+      213: 5679741666069189725
+    second: Mario Enemies_126
+  - first:
+      213: 3283386897364684127
+    second: Gomba2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gomba1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ff751f1f6a5a30800000000000000
+      internalID: 4204795381399155382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa41393e88d3b50800000000000000
+      internalID: 6574561542037350971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troopa_Brown_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 216
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0c6bc9139906c0800000000000000
+      internalID: -4176645440413103093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troopa_Brown_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ec97bcd9b92a20800000000000000
+      internalID: 3038163781262565838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a70c26e7c40140800000000000000
+      internalID: 4685089303767263188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120caac5ab206660800000000000000
+      internalID: 7376944180702741019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 216
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e89ccce741d250800000000000000
+      internalID: 5967630063613044948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c229ec5d83bbc90800000000000000
+      internalID: -7153061092203025400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05d6061c09234a0800000000000000
+      internalID: -6615065742432972555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86366c388cb124540800000000000000
+      internalID: 4990581885098156904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirry_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 216
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e68d3e027481140800000000000000
+      internalID: 4690577218493509242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15b86960ac893d0800000000000000
+      internalID: -3199585405602410031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6808d515fab76120800000000000000
+      internalID: 2407098087649052780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1bfc363b7befe0800000000000000
+      internalID: -1158697006236229973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a8fed76d6ea43e0800000000000000
+      internalID: -2068587269913081230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 216
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409d1937b63485e0800000000000000
+      internalID: -1908340181533093822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_koopa_brown_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648856ff9c466cb0800000000000000
+      internalID: -4871121697038105501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_koopa_brown_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283807104d6add3f0800000000000000
+      internalID: -874359323152579710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_koopa_brown_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8547f3c336ebb4080800000000000000
+      internalID: -9202052080179645352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_koopa_brown_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922b200ae34f7590800000000000000
+      internalID: -7674340567711800674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6804250398b320800000000000000
+      internalID: 2573968837330890391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57cdc5b7038b160800000000000000
+      internalID: 7041431323790833077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f32af99043d030800000000000000
+      internalID: 3518226763977324148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2768fb394ac82780800000000000000
+      internalID: -8707487463633295572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce283041a8ddeb20800000000000000
+      internalID: 3165424300190084811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 180
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b732e7f1fb02750800000000000000
+      internalID: 6278228022535617432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 180
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f16107d7c797e90800000000000000
+      internalID: -7027448865341694109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1722d992e0fa3e30800000000000000
+      internalID: 4484161235034711837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a1f30b16d4bea0800000000000000
+      internalID: -5857821803783544333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51ad4875dbd96110800000000000000
+      internalID: 1254775681092264282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa3f5f57aefde50800000000000000
+      internalID: 6836440551730163650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b2bfe6895c5760800000000000000
+      internalID: 7447926319845914254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 180
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f820f239bcb67c60800000000000000
+      internalID: 7815641706957646068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 180
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a5baabca06b540800000000000000
+      internalID: 5023214304237035592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 180
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190076d27f7f094c0800000000000000
+      internalID: -4282650604638633839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 180
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04c3a7161625570800000000000000
+      internalID: 8453926521818333371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 180
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a7f17d0fb8e7f0800000000000000
+      internalID: -583006087276944530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 180
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97533897e8b0a0680800000000000000
+      internalID: -8788199016308198023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 180
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bedcda30b2a9a70800000000000000
+      internalID: 8834420913841498954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf75152748dfae0800000000000000
+      internalID: -1513908273200759391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4017d0dd37d16b0800000000000000
+      internalID: -5323971791231581010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025ef994a1161e20800000000000000
+      internalID: 3320861173888209421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7995c9b9c483f0800000000000000
+      internalID: -899372225845952753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33580dc5ede1610e0800000000000000
+      internalID: -2299616619337317069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 144
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab95283128836d0800000000000000
+      internalID: -3010513330594268603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c6c397d5659eb0800000000000000
+      internalID: -4713749458401704286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 145
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004de745066d6df0800000000000000
+      internalID: -185379836784721915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 145
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ccb19763bcce70800000000000000
+      internalID: 9136875001435965742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 144
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6d6f08c34e73b0800000000000000
+      internalID: -5512894367323559294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2473caa0e23772c0800000000000000
+      internalID: -4434019367603964885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 144
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0fca9103a08540800000000000000
+      internalID: 5008182012923546212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 144
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4addb78ea46f280800000000000000
+      internalID: -9009931642137107252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 144
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994c8bb7e99130d0800000000000000
+      internalID: -3444803019398690416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 144
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c55f34ad4452f0800000000000000
+      internalID: -985077050654735196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 144
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9c79c6916a0690800000000000000
+      internalID: -7635182917999878336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 144
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bec2668cb0d420800000000000000
+      internalID: 2652827465890576311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 144
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a5166e6dc118b0800000000000000
+      internalID: -5183135822083938643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 144
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159929e73bd90b3d0800000000000000
+      internalID: -3192878741557438127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5016b3924e09adc0800000000000000
+      internalID: -3627352345761410978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51918ba1688c38660800000000000000
+      internalID: 7386968292117190933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c4df74e5ddd840800000000000000
+      internalID: 5250587917957775779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c1c4b9684e7e80800000000000000
+      internalID: -8179020254416879119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 108
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9809841951b1a0800000000000000
+      internalID: -6795552417992107296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 108
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e089bf6328761c50800000000000000
+      internalID: 6635623194570621156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 108
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae227a90b04a1e90800000000000000
+      internalID: -7054254739072864607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee306393d38d7e1b0800000000000000
+      internalID: -5627291451911699474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd935c13fb5671d0800000000000000
+      internalID: -3353391772820333134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 108
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf518a6188af190800000000000000
+      internalID: -7927874563141665812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d379c4b43d6ba870800000000000000
+      internalID: 8695163578707702741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 108
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51042584d8957fc10800000000000000
+      internalID: 2087235415648124949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 108
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3925be01985b4a7c0800000000000000
+      internalID: -4060921363682340205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 108
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d757382b73bb20800000000000000
+      internalID: 3148995977119520191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 108
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a975e7f95319260800000000000000
+      internalID: 7102517046475725459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 108
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1f203c62ca1e40800000000000000
+      internalID: 5628024454273506580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 108
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cee98aac5249d10800000000000000
+      internalID: 2131370075995696283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 108
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e6683a0c1be160800000000000000
+      internalID: 7055764071427531728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 108
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c3de5da41c1b80800000000000000
+      internalID: -8422834468236835697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c8d3a425b08870800000000000000
+      internalID: 8683139250542657768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367141e2b71030640800000000000000
+      internalID: 5044877636150761315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27befe098e3edd30800000000000000
+      internalID: 4458069439526385452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a997dbc28048acce0800000000000000
+      internalID: -1384148764817786470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 72
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772ffe1f12f637c0800000000000000
+      internalID: -4091816995941570702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 72
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35425c8c176b98b0800000000000000
+      internalID: -5144404777029712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 72
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6974ceaf0814b920800000000000000
+      internalID: 3005053306998651247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 73
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372857002ab7e8a0800000000000000
+      internalID: -6275842908992559312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 73
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31058f8eb51a3e00800000000000000
+      internalID: 1025155773376037181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 72
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144843c457c681920800000000000000
+      internalID: 2961236006041584705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30595c4d6046c140800000000000000
+      internalID: 4739546496030560317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729453550b2e8aee0800000000000000
+      internalID: -1249499649623635673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28fe3b505b8bfd0800000000000000
+      internalID: -2325910171438579038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1220e259bde2090800000000000000
+      internalID: -8057261249550736977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3976c3386966f0800000000000000
+      internalID: -690906496242205026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f90797f2cdf1d0800000000000000
+      internalID: -3315279382028094798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3d578f86f133c0800000000000000
+      internalID: -4381449866142991288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8a3961073fe780800000000000000
+      internalID: -8651635879955493914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff865452e1fceaea0800000000000000
+      internalID: -5859518336781162241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14d26386fd83c40800000000000000
+      internalID: 5492385384256848347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ea6035331674d0800000000000000
+      internalID: -3137298971250464259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa1b9d2fed73ec0800000000000000
+      internalID: -3587153443561559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a5a8374e257140800000000000000
+      internalID: 4716727068168397908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 36
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1428d593aabc30800000000000000
+      internalID: 4375989851915558065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 36
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878ec3bf645e5850800000000000000
+      internalID: 6367619761883219842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 36
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdae517435b96470800000000000000
+      internalID: 8388435017799216631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 37
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb5fd358c2bc3f0800000000000000
+      internalID: -879560351439013094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 37
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0b939c51831b90800000000000000
+      internalID: -7272326738659832019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 36
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fbdc7145eba2b80800000000000000
+      internalID: -8418707285029830849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 36
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76340b09886d5f0b0800000000000000
+      internalID: -5695410271708757145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 18
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3381949e0707ea0800000000000000
+      internalID: -5877073366462483461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488296e06180c350800000000000000
+      internalID: 6034965753861670985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 18
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38810e7e521578dd0800000000000000
+      internalID: -2483927446225676157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 36
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890405a445f7ee8f0800000000000000
+      internalID: -509329707845533544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 36
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea036e0d88ba610800000000000000
+      internalID: 1633549720648461974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 36
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bb7d806f2f8de0800000000000000
+      internalID: -1328791273313946387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 36
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca6baa1047e0f50800000000000000
+      internalID: 6849539633784990964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 36
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d53ef1de7349a50800000000000000
+      internalID: 6526903251548462487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 22
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612b40db971fd960800000000000000
+      internalID: 7628842251770863975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 22
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a45b39e50891a0800000000000000
+      internalID: -6802680737862213486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 22
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457598592955c050800000000000000
+      internalID: 5820156127560955215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 22
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09befc1a8ec90f7d0800000000000000
+      internalID: -2886634838183384176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68f358ef46f33300800000000000000
+      internalID: 230798828986693739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615470a97090150d0800000000000000
+      internalID: -3435955112453389034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d541a06e3fe72de40800000000000000
+      internalID: 5679741666069189725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomba2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d089dacfee09d20800000000000000
+      internalID: 3283386897364684127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirry_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e5abca25e0d540800000000000000
+      internalID: 5030772755740877273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
